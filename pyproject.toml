@@ -8,7 +8,6 @@ packages = [{include = "recursive_clustering_mnist"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
-tensorflow = "^2.15.0.post1"
 pandas = "^2.1.4"
 numpy = "^1.26.2"
 matplotlib = "^3.8.2"
